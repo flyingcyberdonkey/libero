@@ -1,0 +1,57 @@
+# Translations for de
+
+#: index.subtitle
+msgid "index.subtitle"
+msgstr "Eine gemeinschaftliche Sprachlernplattform"
+
+#: index.start_spanish_course
+msgid "index.start_spanish_course"
+msgstr "Spanisch lernen"
+
+#: index.about_librelingo
+msgid "index.about_librelingo"
+msgstr "Über LibreLingo"
+
+#: meta.title
+msgid "meta.title"
+msgstr "LibreLingo - lerne kostenlos eine Sprache"
+
+#: index.start_german_course
+msgid "index.start_german_course"
+msgstr "Fange an Deutsch zu lernen."
+
+#: index.meta.description
+msgid "index.meta.description"
+msgstr "LibreLingo ist ein Experiment zur Schaffung einer gemeinschaftsgesteuerten Sprachlernplattform. Lernen Sie eine Sprache kostenlos."
+
+#: about.meta.description
+msgid "about.meta.description"
+msgstr "LibreLingo ist eine gemeinschaftlich gesteuerte Open-Source-Sprachlernplattform, die ihren Nutzern und Mitwirkenden die Möglichkeit gibt, Einfluss auf ihre Zukunft zu nehmen."
+
+#: development.meta.description
+msgid "development.meta.description"
+msgstr "Lesen Sie über die jüngsten Neuerungen in LibreLingo, einem Experiment zur Schaffung einer gemeinschaftsgesteuerten Sprachlernplattform."
+
+#: sign-up.meta.description
+msgid "sign-up.meta.description"
+msgstr "Bei LibreLingo kostenlos anmelden und eine Sprache lernen."
+
+#: index.development_docs
+msgid "index.development_docs"
+msgstr "Entwicklungsdokumentation"
+
+#: index.development_docs_english_only
+msgid "index.development_docs_english_only"
+msgstr "Entwicklungsdokumentation (Englisch)"
+
+#: course_page.button_practice
+msgid "course_page.button_practice"
+msgstr "Üben"
+
+#: course_page.button_continue
+msgid "course_page.button_continue"
+msgstr "Weiterlernen"
+
+#: course_page.button_learn
+msgid "course_page.button_learn"
+msgstr "Lernen"

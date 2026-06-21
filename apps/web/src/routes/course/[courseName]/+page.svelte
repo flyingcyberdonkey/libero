@@ -14,8 +14,8 @@
 	export let modules: ModulesType = page.data.course.modules;
 	export let languageName = page.data.course.languageName;
 	export const repositoryURL = page.data.course.repositoryURL;
-	export let uiLanguage = 'es';
-	locale.set(uiLanguage);
+	// UI language should be handled globally (user preference or navigator).
+	// Keep course language separate from UI language to allow independent UI localization.
 </script>
 
 <svelte:head>

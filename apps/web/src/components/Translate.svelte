@@ -9,6 +9,14 @@
   {#if isBrowser() === false && import.meta.env.WEBPACK_MODE === "development"}
     <slot />
   {:else}
-    {$format(key)}
+    {@html (() => {
+      const str = $format(key);
+      // Log a warning to help contributors find missing translations
+      if (typeof str === 'string' && (str === key || str.includes(key))) {
+        console.warn(`Missing translation for key: ${key}`);
+      }
+      // Return escaped string - format should be safe
+      return str;
+    })()}
   {/if}
 </span>

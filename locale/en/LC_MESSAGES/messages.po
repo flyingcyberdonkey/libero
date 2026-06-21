@@ -1,0 +1,173 @@
+# Translations for en
+
+#: index.subtitle
+msgid "index.subtitle"
+msgstr "an experiment to create a community-driven language-learning platform"
+
+#: index.start_spanish_course
+msgid "index.start_spanish_course"
+msgstr "Start learning Spanish"
+
+#: index.about_librelingo
+msgid "index.about_librelingo"
+msgstr "About LibreLingo"
+
+#: meta.title
+msgid "meta.title"
+msgstr "LibreLingo - learn a language for free"
+
+#: index.start_german_course
+msgid "index.start_german_course"
+msgstr "Start learning German"
+
+#: index.start_italian_course
+msgid "index.start_italian_course"
+msgstr "Start learning Italian"
+
+#: index.start_french_course
+msgid "index.start_french_course"
+msgstr "Start learning French"
+
+#: index.start_portuguese_course
+msgid "index.start_portuguese_course"
+msgstr "Start learning Portuguese"
+
+#: index.start_dutch_course
+msgid "index.start_dutch_course"
+msgstr "Start learning Dutch"
+
+#: index.start_arabic_course
+msgid "index.start_arabic_course"
+msgstr "Start learning Arabic"
+
+#: index.start_chinese_course
+msgid "index.start_chinese_course"
+msgstr "Start learning Chinese"
+
+#: index.start_japanese_course
+msgid "index.start_japanese_course"
+msgstr "Start learning Japanese"
+
+#: index.start_korean_course
+msgid "index.start_korean_course"
+msgstr "Start learning Korean"
+
+#: index.start_vietnamese_course
+msgid "index.start_vietnamese_course"
+msgstr "Start learning Vietnamese"
+
+#: index.start_thai_course
+msgid "index.start_thai_course"
+msgstr "Start learning Thai"
+
+#: index.start_hindi_course
+msgid "index.start_hindi_course"
+msgstr "Start learning Hindi"
+
+#: index.start_greek_course
+msgid "index.start_greek_course"
+msgstr "Start learning Greek"
+
+#: index.start_russian_course
+msgid "index.start_russian_course"
+msgstr "Start learning Russian 🇷🇺"
+
+#: index.start_ukrainian_course
+msgid "index.start_ukrainian_course"
+msgstr "Start learning Ukrainian 🇺🇦"
+
+#: index.start_polish_course
+msgid "index.start_polish_course"
+msgstr "Start learning Polish 🇵🇱"
+
+#: index.start_interslavic_course
+msgid "index.start_interslavic_course"
+msgstr "Start learning Interslavic"
+
+#: index.start_czech_course
+msgid "index.start_czech_course"
+msgstr "Start learning Czech 🇨🇿"
+
+#: index.start_croatian_course
+msgid "index.start_croatian_course"
+msgstr "Start learning Croatian 🇭🇷"
+
+#: index.start_silesian_course
+msgid "index.start_silesian_course"
+msgstr "Start learning Silesian"
+
+#: index.start_serbian_course
+msgid "index.start_serbian_course"
+msgstr "Start learning Serbian 🇷🇸"
+
+#: index.start_slovenian_course
+msgid "index.start_slovenian_course"
+msgstr "Start learning Slovenian 🇸🇮"
+
+#: index.start_slovak_course
+msgid "index.start_slovak_course"
+msgstr "Start learning Slovak 🇸🇰"
+
+#: index.start_rusin_course
+msgid "index.start_rusin_course"
+msgstr "Start learning Rusin"
+
+#: index.start_old-church-slavonic_course
+msgid "index.start_old-church-slavonic_course"
+msgstr "Start learning Old Church Slavonic"
+
+#: index.start_upper-sorbian_course
+msgid "index.start_upper-sorbian_course"
+msgstr "Start learning Upper Sorbian"
+
+#: index.start_lower-sorbian_course
+msgid "index.start_lower-sorbian_course"
+msgstr "Start learning Lower Sorbian"
+
+#: index.start_church-slavonic_course
+msgid "index.start_church-slavonic_course"
+msgstr "Start learning Church Slavonic"
+
+#: index.start_kashubian_course
+msgid "index.start_kashubian_course"
+msgstr "Start learning Kashubian"
+
+#: index.start_belarusian_course
+msgid "index.start_belarusian_course"
+msgstr "Start learning Belarusian 🇧🇾"
+
+#: index.meta.description
+msgid "index.meta.description"
+msgstr "LibreLingo is an experiment to create a community driven language-learning platform. Learn a language for free."
+
+#: about.meta.description
+msgid "about.meta.description"
+msgstr "LibreLingo is an open source, community-driven language-learning platform that gives its users and contributors a way to influence its future."
+
+#: development.meta.description
+msgid "development.meta.description"
+msgstr "Read about the recent major new features in LibreLingo, an experiment to create a community driven language-learning platform."
+
+#: sign-up.meta.description
+msgid "sign-up.meta.description"
+msgstr "Sign up to LibreLingo and learn a language for free."
+
+#: index.development_docs
+msgid "index.development_docs"
+msgstr "Development documentation"
+
+#: index.development_docs_english_only
+msgid "index.development_docs_english_only"
+msgstr "Development documentation (English only)"
+
+#: course_page.button_practice
+msgid "course_page.button_practice"
+msgstr "Practice"
+
+#: course_page.button_continue
+msgid "course_page.button_continue"
+msgstr "Continue learning"
+
+#: course_page.button_learn
+msgid "course_page.button_learn"
+msgstr "Learn"

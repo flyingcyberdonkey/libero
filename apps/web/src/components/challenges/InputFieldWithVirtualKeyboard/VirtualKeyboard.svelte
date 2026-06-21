@@ -34,6 +34,17 @@
 		flex-wrap: wrap;
 	}
 
+	/* Ensure key-style buttons center their content both horizontally and vertically */
+	.virtual-keyboard :global([ref='lluis-button'][data-style='key']) {
+		display: inline-flex !important;
+		align-items: center !important;
+		justify-content: center !important;
+		padding: 6px 10px !important;
+		min-width: 40px;
+		height: 40px;
+		box-sizing: border-box;
+	}
+
 	@media only screen and (pointer: coarse) {
 		.virtual-keyboard .keys {
 			display: flex;

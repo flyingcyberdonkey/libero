@@ -1,0 +1,57 @@
+# Translations for eo
+
+#: index.subtitle
+msgid "index.subtitle"
+msgstr "klopodo por krei komunum-zorgatan platformon por lerni lingvojn"
+
+#: index.start_spanish_course
+msgid "index.start_spanish_course"
+msgstr "Eklernu la hispanan"
+
+#: index.about_librelingo
+msgid "index.about_librelingo"
+msgstr "Pri LibreLingo"
+
+#: meta.title
+msgid "meta.title"
+msgstr "LibreLingo - lernu lingvon senpage"
+
+#: index.start_german_course
+msgid "index.start_german_course"
+msgstr "Eklernu la germanan"
+
+#: index.meta.description
+msgid "index.meta.description"
+msgstr "LibreLingo estas eksperimento por krei komunuman movitan lingvolernan platformon. Lernu lingvon senpage."
+
+#: about.meta.description
+msgid "about.meta.description"
+msgstr "LibreLingo estas malfermfonteco, komunum-gvidita lingvolernado-platformo, kiu donas al siaj uzantoj kaj kontribuantoj manieron influi ĝian estontecon."
+
+#: development.meta.description
+msgid "development.meta.description"
+msgstr "Legu pri la lastatempaj gravaj novaj funkcioj en LibreLingo, eksperimento por krei komunuman movitan lingvolernan platformon."
+
+#: sign-up.meta.description
+msgid "sign-up.meta.description"
+msgstr "Aliĝu al LibreLingo kaj lernu lingvon senpage."
+
+#: index.development_docs
+msgid "index.development_docs"
+msgstr "Dokumentado pri programado"
+
+#: index.development_docs_english_only
+msgid "index.development_docs_english_only"
+msgstr "Dokumentado pri platforma evoluigo (nur angle)"
+
+#: course_page.button_practice
+msgid "course_page.button_practice"
+msgstr ""
+
+#: course_page.button_continue
+msgid "course_page.button_continue"
+msgstr ""
+
+#: course_page.button_learn
+msgid "course_page.button_learn"
+msgstr ""

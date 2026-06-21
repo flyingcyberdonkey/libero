@@ -1,0 +1,61 @@
+# Translations for it
+
+#: index.subtitle
+msgid "index.subtitle"
+msgstr "un esperimento per creare una piattaforma per imparare le lingue gestita da una comunità"
+
+#: index.start_spanish_course
+msgid "index.start_spanish_course"
+msgstr "Comincia ad imparare lo spagnolo"
+
+#: index.start_french_course
+msgid "index.start_french_course"
+msgstr "Comincia ad imparare il francese"
+
+#: index.about_librelingo
+msgid "index.about_librelingo"
+msgstr "Informazioni su LibreLingo"
+
+#: meta.title
+msgid "meta.title"
+msgstr "LibreLingo - impara liberamente una lingua"
+
+#: index.start_german_course
+msgid "index.start_german_course"
+msgstr "Comincia ad imparare il tedesco"
+
+#: index.meta.description
+msgid "index.meta.description"
+msgstr "LibreLingo è un esperimento per creare una piattaforma di apprendimento lingue guidata dalla comunità. Impara una lingua gratuitamente."
+
+#: about.meta.description
+msgid "about.meta.description"
+msgstr "LibreLingo è una piattaforma di apprendimento delle lingue open source e guidata dalla comunità che offre ai suoi utenti e contributori un modo per influenzare il suo futuro."
+
+#: development.meta.description
+msgid "development.meta.description"
+msgstr "Leggi delle recenti nuove funzionalità di LibreLingo, un esperimento per creare una piattaforma di apprendimento delle lingue guidata dalla comunità."
+
+#: sign-up.meta.description
+msgid "sign-up.meta.description"
+msgstr "Iscriviti a LibreLingo e impara una lingua gratuitamente."
+
+#: index.development_docs
+msgid "index.development_docs"
+msgstr "Documentazione sviluppo"
+
+#: index.development_docs_english_only
+msgid "index.development_docs_english_only"
+msgstr "Documentazione sullo sviluppo della piattaforma (solo inglese)"
+
+#: course_page.button_practice
+msgid "course_page.button_practice"
+msgstr ""
+
+#: course_page.button_continue
+msgid "course_page.button_continue"
+msgstr ""
+
+#: course_page.button_learn
+msgid "course_page.button_learn"
+msgstr ""
