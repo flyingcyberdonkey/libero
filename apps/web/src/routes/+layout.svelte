@@ -45,11 +45,16 @@
 		'button-border-color-accent': 'transparent',
 
 		// Secondary
-		'button-color-secondary': 'var(--white)',
-		'button-border-color-secondary': 'var(--button-color-primary)',
+		'button-color-secondary': 'rgba(134, 77, 203, 0.10)',
+		'button-border-color-secondary': 'rgba(134, 77, 203, 0.18)',
+		'button-color-secondary-text': 'var(--color-primary)',
+
+		// Link / tertiary button styles
+		'button-color-link': 'transparent',
+		'button-color-link-text': 'var(--color-primary)',
 
 		// NavBar specific styles
-		'new-navbar-background': 'rgba(255, 255, 255, .85)',
+		'new-navbar-background': 'rgba(255, 255, 255, .95)',
 		'navbar-height': '96px',
 
 		// DEPRECATED variables

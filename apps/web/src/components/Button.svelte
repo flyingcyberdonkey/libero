@@ -49,18 +49,20 @@
 <style>
 	:global([ref='lluis-button']) {
 		font-size: var(--font-size-normal);
-		line-height: calc(var(--font-size-normal) * 1.5);
-		gap: 0.5rem;
+		line-height: 1.4;
+		font-weight: 600;
+		gap: 0.6rem;
 		align-items: center;
 		display: inline-flex;
 		justify-content: center;
-		border-radius: 2.5rem;
-		padding: 0 1.5rem;
-		height: 2.5rem;
-		border: 1px solid;
+		border-radius: 12px;
+		padding: 0 1.25rem;
+		height: 44px;
+		min-width: 0;
+		border: 1px solid transparent;
 		white-space: nowrap;
 		cursor: pointer;
-		transition: all 0.15s;
+		transition: background-color 0.2s ease, border-color 0.2s ease, transform 0.2s ease, color 0.2s ease;
 	}
 
 	/* Sizes */
@@ -80,27 +82,54 @@
 		color: var(--text-color-default);
 	}
 
-	/* Primary style */
 	:global([ref='lluis-button'][data-style='primary']) {
 		background-color: var(--button-color-primary);
 		border-color: var(--button-border-color-primary);
 		color: var(--text-color-inverted);
 	}
 
-	:global([ref='lluis-button'][data-selector='hover']) :global([ref='lluis-button']:hover) {
-		background-color: red;
-		color: var(--text-color-default);
+	:global([ref='lluis-button'][data-style='primary']:hover) {
+		background-color: var(--button-color-primary-hover, rgba(134, 77, 203, 0.93));
 	}
 
 	:global([ref='lluis-button'][data-style='secondary']) {
 		background-color: var(--button-color-secondary);
 		border-color: var(--button-border-color-secondary);
-		color: var(--text-color-default);
+		color: var(--button-color-secondary-text, var(--text-color-default));
+	}
+
+	:global([ref='lluis-button'][data-style='secondary']:hover) {
+		background-color: rgba(134, 77, 203, 0.14);
 	}
 
 	:global([ref='lluis-button'][data-style='linkButton']) {
+		background-color: transparent;
+		border-color: transparent;
+		color: var(--button-color-link-text, var(--button-color-primary));
+		text-decoration: underline;
+	}
+
+	:global([ref='lluis-button'][data-style='linkButton']:hover) {
+		background-color: rgba(134, 77, 203, 0.08);
+	}
+
+	:global([ref='lluis-button']:hover) {
+		transform: translateY(-1px);
+	}
+
+	:global([ref='lluis-button'][data-style='secondary']) {
 		background-color: var(--button-color-secondary);
-		border-color: var(--button-border-color-link);
-		color: var(--button-color-primary);
+		border-color: var(--button-border-color-secondary);
+		color: var(--button-color-secondary-text, var(--text-color-default));
+	}
+
+	:global([ref='lluis-button'][data-style='secondary']:hover) {
+		background-color: rgba(134, 77, 203, 0.14);
+	}
+
+	:global([ref='lluis-button'][data-style='linkButton']) {
+		background-color: var(--button-color-link);
+		border-color: transparent;
+		color: var(--button-color-link-text, var(--button-color-primary));
 	}
 </style>
